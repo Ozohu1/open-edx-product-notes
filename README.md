@@ -13,3 +13,12 @@ This repository captures short, practical notes from reviewing the Open edX plat
 - Platform consistency and maintainability from a product standpoint
 
 These notes are intended to complement—not replace—existing technical documentation.
+
+## Why Product Perspectives Matter in Open Source
+
+Open-source platforms are often built primarily by engineers, but product perspectives
+can help ensure that features remain usable, discoverable, and aligned with real user needs.
+
+By documenting integration observations and developer experience considerations,
+product practitioners can contribute by highlighting opportunities for improved
+clarity, usability, and documentation across the ecosystem.
