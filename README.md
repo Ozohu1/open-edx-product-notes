@@ -25,3 +25,11 @@ clarity, usability, and documentation across the ecosystem.
 ## Configuration Documentation Insight
 
 A configuration option is most useful when developers and operators can quickly understand its visible effect. My work documenting `HOMEPAGE_COURSE_MAX` reinforced the importance of connecting technical settings to practical platform behaviour, such as how many courses are displayed on the LMS homepage.
+
+## Integration Review Questions
+
+When reviewing an Open edX integration, I find it useful to ask:
+
+- Is the configuration clearly documented for the people who need to maintain it?
+- Are frontend and backend integration points easy to understand?
+- Does the implementation make expected platform behaviour obvious to operators and developers?
