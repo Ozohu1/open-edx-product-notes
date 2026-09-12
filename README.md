@@ -22,6 +22,7 @@ can help ensure that features remain usable, discoverable, and aligned with real
 By documenting integration observations and developer experience considerations,
 product practitioners can contribute by highlighting opportunities for improved
 clarity, usability, and documentation across the ecosystem.
+
 ## Configuration Documentation Insight
 
 A configuration option is most useful when developers and operators can quickly understand its visible effect. My work documenting `HOMEPAGE_COURSE_MAX` reinforced the importance of connecting technical settings to practical platform behaviour, such as how many courses are displayed on the LMS homepage.
