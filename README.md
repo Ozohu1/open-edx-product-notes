@@ -35,6 +35,3 @@ When reviewing an Open edX integration, I find it useful to ask:
 - Are frontend and backend integration points easy to understand?
 - Does the implementation make expected platform behaviour obvious to operators and developers?
 
-## Purpose
-
-This repository contains my working notes and observations from exploring Open edX, with a focus on product workflows, accessibility, and the learner experience.
