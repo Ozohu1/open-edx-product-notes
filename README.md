@@ -34,4 +34,3 @@ When reviewing an Open edX integration, I find it useful to ask:
 - Is the configuration clearly documented for the people who need to maintain it?
 - Are frontend and backend integration points easy to understand?
 - Does the implementation make expected platform behaviour obvious to operators and developers?
-
