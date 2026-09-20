@@ -34,3 +34,4 @@ When reviewing an Open edX integration, I find it useful to ask:
 - Are frontend and backend integration points easy to understand?
 - Does the implementation make expected platform behaviour obvious to operators and developers?
 - Are accessibility considerations visible in the user journey and reflected in the integration requirements?
+- - Is it clear how configuration changes affect the learner-facing experience?
