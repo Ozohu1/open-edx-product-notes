@@ -1,5 +1,4 @@
 # Open edX – Product & Integration Notes
-
 This repository captures short, practical notes from reviewing the Open edX platform as an open-source learning ecosystem.
 
 ## Purpose
@@ -34,3 +33,4 @@ When reviewing an Open edX integration, I find it useful to ask:
 - Is the configuration clearly documented for the people who need to maintain it?
 - Are frontend and backend integration points easy to understand?
 - Does the implementation make expected platform behaviour obvious to operators and developers?
+- Are accessibility considerations visible in the user journey and reflected in the integration requirements?
