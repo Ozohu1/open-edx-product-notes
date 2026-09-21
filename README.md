@@ -35,3 +35,4 @@ When reviewing an Open edX integration, I find it useful to ask:
 - Does the implementation make expected platform behaviour obvious to operators and developers?
 - Are accessibility considerations visible in the user journey and reflected in the integration requirements?
 - Is it clear how configuration changes affect the learner-facing experience?
+- Is error behaviour clear enough for users and operators to understand what went wrong and what action to take next?
