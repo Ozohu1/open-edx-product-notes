@@ -14,3 +14,7 @@ When reviewing an Open edX workflow, consider whether:
 - the user is given an appropriate next action;
 - technical information intended for developers is separated from learner-facing guidance; and
 - recurring errors could indicate a configuration or integration issue that should be addressed at product level.
+
+- ## Review Outcome
+
+A useful error state should explain what happened, identify what the user can do next, and avoid exposing unnecessary technical detail in the learner-facing experience.
